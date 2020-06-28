@@ -5,7 +5,7 @@ description: "Solo sabemos con certeza dos cosas de esta crisis: el mundo va a c
 
 header_classes_index: nav_link
 header_classes_recommendations: nav_link
-header_classes_recommendations: nav_link current_page_header
+header_classes_articles: nav_link current_page_header
 
 footer_classes_index: footer_li
 footer_classes_recommendations: footer_li
