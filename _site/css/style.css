@@ -30,6 +30,12 @@ section {
     padding-left: 10px;
 }
 
+blockquote {
+    padding-left: 10px;
+    margin-left: 40px;
+    border-left: 3px solid #400080;
+}
+
 /* End of Global styles*/
 
 /* Start of header*/
@@ -55,9 +61,8 @@ section {
 }
 
 ul.desktop_nav li {
-    font-size: calc(15px + (18 - 15) * ((100vw - 300px) / (1600 - 300)));
     list-style-type: none;
-    padding: 0 10px;
+    padding: 0 7.5px;
 }
 
 ul.desktop_nav li:first-child {
