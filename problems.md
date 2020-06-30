@@ -18,7 +18,9 @@ link_problems: #top
 link_recommendations: recommendations.html
 link_articles: articles.html
 ---
+{::options parse_block_html="true" /}
 
+<section>
 # Problems
 
 Below I list a set of problems I can see myself working on. 
@@ -43,3 +45,4 @@ I'm doing this list because this paragraph of Sam's essay bothered me. It's argu
 
 ### Cross-country employment
 - Better wages for people in low-wage countries, and lower costs for their employers
+</section>

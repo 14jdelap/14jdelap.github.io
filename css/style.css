@@ -166,6 +166,12 @@ ul.desktop_nav li:last-child {
     .collapse_mobile {
         display: none;
     }
+
+    blockquote {
+        padding-left: 10px;
+        margin: 0 10px;
+        border-left: 3px solid #400080;
+    }
     /* End of global styles*/
 
 
