@@ -18,7 +18,7 @@ link_articles: /articles.html
 {::options parse_block_html="true" /}
 <section>
 
-# CORONAVIRUS: LOS MUNDOS POSIBLES
+# Coronavirus: los mundos posibles
 <span>Posted: {{ post.date | date: '%B %d, %Y' }}</span><br>
 
 Solo sabemos con certeza dos cosas de esta crisis.
