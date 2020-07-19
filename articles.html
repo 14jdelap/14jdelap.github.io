@@ -22,7 +22,7 @@ link_articles: articles.html
     <section title="Overview of my articles">
         <h1 class="title">Articles</h1>
         {% for post in site.posts %}
-                <a href="{{ post.url }}">{{ post.title }}</a> <br>
-                <p>{{ post.description }}</p> <br> <br>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <p>{{ post.description }}</p>
         {% endfor %}
     </section>
