@@ -7,7 +7,7 @@
 body {
     font-family: Myriad Pro, Helvetica, sans-serif;
     margin: 0 auto;
-    max-width: 629px;
+    max-width: 700px;
 }
 
 h1 {
@@ -18,8 +18,12 @@ h2 {
     font-size: calc(20px + (24 - 18) * ((100vw - 300px) / (1600 - 300)));
 }
 
+h3 {
+    font-size: calc(17px + (22 - 17) * ((100vw - 300px) / (1600 - 300)));
+}
+
 p, li, a {
-    font-size: calc(18px + (20 - 18) * ((100vw - 300px) / (1600 - 300)));
+    font-size: calc(17px + (20 - 17) * ((100vw - 300px) / (1600 - 300)));
 }
 
 section {
@@ -62,7 +66,7 @@ blockquote {
 
 ul.desktop_nav li {
     list-style-type: none;
-    padding: 0 7.5px;
+    padding: 0 10px;
 }
 
 ul.desktop_nav li:first-child {
@@ -117,7 +121,7 @@ ul.desktop_nav li:last-child {
     grid-template-columns: repeat(3, 220px);
     grid-template-rows: repeat(2, 220px);
     justify-content: center;
-    margin-bottom: 30px;
+    margin-bottom: 16px;
 }
 
 /* End of image gallery*/
