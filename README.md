@@ -1,6 +1,13 @@
 # Welcome!
 You're in my personal website. I coded the site as a way to improve my design and coding skills. 
 
+I originally coded this site on HTML and CSS, and have always (so far) hosted it on Github Pages as it's a simple static page. 
+
+Since the first iterations, the biggest changes to the tech stack have been:
+- Changing the code base to a Jekyll site to make writing on the site easier and less error-prone
+- Refactoring the CSS to remove repetitive code — it surprised me how even a simple site can get a bit messy
+- Grouping CSS code into subgroups (through comments), from global to specific and most to least used
+
 ## Main learnings
 
 1. People skim, not read
@@ -37,4 +44,4 @@ You're in my personal website. I coded the site as a way to improve my design an
 7. Use a typography that contributes to your objective
     - This is **arguably the most important visual design decision I made**
     - I wanted to use a friendly but firm and professional sans serif
-    - Chose to use Myriad Pro, with Helvetica and Sans as backups 
+    - Chose to use Myriad Pro, with Helvetica and Sans as backups
