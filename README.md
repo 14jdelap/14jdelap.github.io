@@ -8,6 +8,8 @@ Since the first iterations, the biggest changes to the tech stack have been:
 - Refactoring the CSS to remove repetitive code — it surprised me how even a simple site can get a bit messy
 - Grouping CSS code into subgroups (through comments), from global to specific and most to least used
 
+What is the biggest challenge going forward? Adapting the page to allow for more content, as the current page isn't designed for that. 
+
 ## Main learnings
 
 1. People skim, not read
