@@ -27,7 +27,7 @@ link_articles: articles.html
 
 This excerpt from Sam Altman's essay on the similarities of great [researchers and founders](https://blog.samaltman.com/researchers-and-founders) has been on my mind.
 
-Working on bigger problems isn't only more meaningful because a successful outcome is a more significant achievement — but because it can be easier to accomplish than an easier problem. 
+Working on bigger problems isn't only more meaningful because a successful outcome is a more significant achievement — but because it can be more likely to accomplish than an easier problem. 
 
 Somre related articles include Scott Young [on motivation](https://www.scotthyoung.com/blog/2020/07/13/motivate-yourself/) and Sam Altman has [on how it's often easier to succeed with hard startups than easy startups](https://blog.samaltman.com/hard-startups)
 
