@@ -40,7 +40,7 @@ I'm also collecting other problem lists at the end of the page.
 ### Cynicism and negativity
 [Younger generations seem to be more pessimistic about having a better life than their parents](https://www.ipsos.com/ipsos-mori/en-uk/only-third-generation-y-think-their-generation-will-have-better-quality-life-their-parents). This pairs well with [Adam Robinson's](https://www.iamadamrobinson.com) idea that to change people's behavior they need better questions or be given a more inspired answer to a question they're asking.
 
-This is partly what I'm trying to address through [Build your Superpower](https://www.buildyoursuperpower.com).
+This is partly what I'm trying to address through [Build your Superpower](http://www.buildyoursuperpower.com).
 
 ### Societal distrust
 Societies with less trust suffer a hidden cost —an opportunity cost— that's high. [This brief article](https://marginalrevolution.com/marginalrevolution/2016/08/regulation-and-distrust-revisited.html) from Alex Tabbarock in Marginal Revolution shows some of the consequences of less trust and why it's hard to overcome it.
