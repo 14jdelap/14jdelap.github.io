@@ -29,7 +29,7 @@ This excerpt from Sam Altman's essay on the similarities of great [researchers a
 
 Working on bigger problems isn't only more meaningful because a successful outcome is a more significant achievement — but because it can be more likely to accomplish than an easier problem. 
 
-Somre related articles include Scott Young [on motivation](https://www.scotthyoung.com/blog/2020/07/13/motivate-yourself/) and Sam Altman has [on how it's often easier to succeed with hard startups than easy startups](https://blog.samaltman.com/hard-startups)
+Some related articles include Scott Young [on motivation](https://www.scotthyoung.com/blog/2020/07/13/motivate-yourself/) and Sam Altman has [on how it's often easier to succeed with hard startups than easy startups](https://blog.samaltman.com/hard-startups)
 
 To both engage with the question and make myself more accountable, I list some problems below I can see myself working on. 
 
@@ -46,7 +46,7 @@ This is partly what I'm trying to address through [Build your Superpower](http:/
 Societies with less trust suffer a hidden cost —an opportunity cost— that's high. [This brief article](https://marginalrevolution.com/marginalrevolution/2016/08/regulation-and-distrust-revisited.html) from Alex Tabbarock in Marginal Revolution shows some of the consequences of less trust and why it's hard to overcome it.
 
 ### Reskilling
-One of the spillovers from living with such a high rate of technological progress is that some people's skills will become less valuable. This partly explains the rise of political extremism in many parts of the world as more people feel disenfranchised.
+One of the spillovers from such a high rate of technological progress is that some people's skills will become less valuable. This partly explains the rise of political extremism in many parts of the world as more people feel disenfranchised.
 
 While we tend to think about teaching people how to code, that isn't the only route. [Nana Academy](https://nanaacademy.org/), for example, is focused on teaching people to become technicians.
 
@@ -72,5 +72,5 @@ An important subproblem is air pollution. [Patrick Collison has written](https:/
 ### Other problem lists
 - [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
 - [80000 hours](https://80000hours.org/career-guide/world-problems/#why-focusing-on-future-generations-can-be-even-more-effective-than-tackling-global-health)
-- [Our World in Data](https://ourworldindata.org/) doesn't have a list per se, but it's a great place to find relevant problems
+- [Our World in Data](https://ourworldindata.org/) a great place to find relevant problems
 </section>
