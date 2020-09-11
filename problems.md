@@ -42,6 +42,9 @@ I'm also collecting other problem lists at the end of the page.
 
 This is partly what I'm trying to address through [Build your Superpower](http://www.buildyoursuperpower.com).
 
+### Better collaboration tools
+This is important to help groups work more effectively, which over the long-run has a meaningful impact on growth. There are some great examples in Google Drive, DropBox, Notion, and Figma — but there's still a lot to do.
+
 ### Societal distrust
 Societies with less trust suffer a hidden cost —an opportunity cost— that's high. [This brief article](https://marginalrevolution.com/marginalrevolution/2016/08/regulation-and-distrust-revisited.html) from Alex Tabbarock in Marginal Revolution shows some of the consequences of less trust and why it's hard to overcome it.
 
@@ -51,12 +54,12 @@ One of the spillovers from such a high rate of technological progress is that so
 While we tend to think about teaching people how to code, that isn't the only route. [Nana Academy](https://nanaacademy.org/), for example, is focused on teaching people to become technicians.
 
 ### Management training
-It's been shown that management skills can be taught and that they meaningfully increase productivity. This is one of the lowest-hanging fruits to increase global GDP. 
+It's been shown that management skills can be taught and that they meaningfully increase productivity. This is one of the lowest-hanging fruits to increase global GDP.
 
 Why aren't they taught at scale?
 
 ### Pollution and climate change
-While these problems aren't strictly the same, they're tightly related. 
+While these problems aren't strictly the same, they're tightly related.
 
 An important subproblem is air pollution. [Patrick Collison has written](https://patrickcollison.com/pollution) a fascinating summary focused on its negative consequences on human cognition, which is less documented than its effects on health outcomes and mortality.
 
