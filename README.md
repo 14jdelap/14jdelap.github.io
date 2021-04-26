@@ -1,20 +1,21 @@
 # Welcome!
-You're in my personal website. I coded the site as a way to improve my design and coding skills. 
+You're in my personal website. I coded the site as a way to improve my design and coding skills.
 
-I originally coded this site on HTML and CSS, and have always (so far) hosted it on Github Pages as it's a simple static page. 
+I originally coded this site on HTML and CSS, and have always (so far) hosted it on Github Pages as it's a simple static page.
 
 Since the first iterations, the biggest changes to the tech stack have been:
-- Changing the code base to a Jekyll site to make writing on the site easier and less error-prone
+
+- Changing the code base to a Jekyll site to make writing the site easier and less error-prone
 - Refactoring the CSS to remove repetitive code — it surprised me how even a simple site can get a bit messy
 - Grouping CSS code into subgroups (through comments), from global to specific and most to least used
 
-What is the biggest challenge going forward? Adapting the page to allow for more content, as the current page isn't designed for that. 
+What is the biggest challenge going forward? Adapting the page to allow for more content, as the current page isn't designed for that.
 
 ## Main learnings
 
 1. People skim, not read
     - Optimize for that with appropriate formatting and layout
-    - Tight column widths 
+    - Tight column widths
     - Generous font size
     - Short paragraphs with compelling content first
     - Use headers and formatting to make a clear visual heirarchy
@@ -22,14 +23,14 @@ What is the biggest challenge going forward? Adapting the page to allow for more
     - Clearly convey what's a link
     - Special formatting for links that have been visited (so users know where they've previously navigated)
     - Prominent navigation system and site logo
-    - Make it clear where users currently are 
+    - Make it clear where users currently are
     - Give several options to teach the same destination, when possible
     - `a` (anchor) tags should open in a new window to minimize the chance users struggle to get back to the page
 3. Optimize for mobile
     - Fluid typography: its font size continuously changes based on viewport size
     - Images resize based on viewport width
     - Responsive design
-        - The most significant change is a **mobile navigation system** based on Luke W's design (still in use in his personal website) 
+        - The most significant change is a **mobile navigation system** based on Luke W's design (still in use in his personal website)
         - There's one breakpoint where the design changes using a media query to optimize for tablet/mobile sizes
         - Also use a class to hide and show elements using the media queries
 4. Use modern layout tools
@@ -42,7 +43,7 @@ What is the biggest challenge going forward? Adapting the page to allow for more
         - Lazy load those under the initial loading screen
     - Minimize HTML/CSS to reduce file size
 6. Insert metadata in the `head` and meet accessibility requirements in Lighthouse
-    - Lighthouse is reasonably comprehensive — just follow its suggestions 
+    - Lighthouse is reasonably comprehensive — just follow its suggestions
 7. Use a typography that contributes to your objective
     - This is **arguably the most important visual design decision I made**
     - I wanted to use a friendly but firm and professional sans serif
